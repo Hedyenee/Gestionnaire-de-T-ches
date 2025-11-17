@@ -31,8 +31,10 @@ L’application sera accessible sur [http://localhost:3000].
 - **useEffect** : persistance localStorage, timer, effets secondaires
 - Le reducer centralise la logique métier (ajout, suppression, modification en respectant l’immutabilité)
 - Application découpée en composants réutilisables (Form, List, Statistics, etc.)
-<img width="591" height="655" alt="image" src="https://github.com/user-attachments/assets/d6efc550-e6aa-4887-983b-32a61ce9e770" />
+
 
 
 
 ```
+<img width="591" height="655" alt="image" src="https://github.com/user-attachments/assets/11bd6bd3-cd21-4ce1-b0ee-4b9a3e76eac7" />
+
